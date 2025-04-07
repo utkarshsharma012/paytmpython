@@ -1,0 +1,11 @@
+a="Nishant"
+print(a)
+
+b=a[-3]
+print(b)
+
+a=(1,"Hello",[78,90,["Hello",(89,('Test',))]],(56,90),2.8)
+print(a)
+#get and return the value Test from the above tuple object using indexing ?
+m=a[2]
+print(m)
